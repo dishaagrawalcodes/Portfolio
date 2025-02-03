@@ -7,6 +7,9 @@
   padding: 0;
    background-color: #F8F9FA;
 }
+html, body {
+  background-color: #F8F9FA;
+}
 
 body {
   font-family: "Poppins", sans-serif;
